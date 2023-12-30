@@ -1,4 +1,4 @@
-<h1 align="center">Sup, I'm Flav :)</h1>
+<h1 align="center">Sup, I'm Flav:)</h1>
 <p align="left">
 </p>
 
